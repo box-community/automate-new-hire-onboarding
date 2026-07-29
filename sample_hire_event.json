@@ -1,0 +1,7 @@
+{
+  "event": "employee.hired",
+  "employee": {
+    "full_name": "Jordan Rivera",
+    "work_email": "jordan.rivera@example.com"
+  }
+}
